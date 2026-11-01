@@ -1,34 +1,49 @@
-UPI Transaction Dashboard 📊
+UPI Transaction Dashboard | Microsoft Excel
 
 Project Overview
 
-This project focuses on analyzing UPI transaction data using Microsoft Excel and presenting insights through a dashboard.
+This project presents an interactive UPI Transaction Dashboard built using Microsoft Excel to analyze transaction patterns, payment performance, and customer behavior.
+
+Key Performance Indicators (KPIs)
+
+- Total Transactions
+- Total Transaction Amount
+- Total Cashback
+- Transaction Success Rate
+- Suspected Fraud Transactions
+
+Dashboard Analysis
+
+- UPI App-wise Transaction Analysis
+- Transaction Status Analysis
+- Daily Transaction Amount Trends
+- State-wise and Bank-wise Analysis
+- Transaction Type Analysis
+- Hour-wise Transaction Patterns
+- Age Group Analysis
+
+Interactive Filters
+
+- UPI App
+- City
+- Gender
+- Merchant Name
 
 Tools Used
 
 - Microsoft Excel
-- Pivot Tables
-- Charts and Data Visualization
-
-Project Objectives
-
-- Analyze UPI transaction data
-- Compare transactions across UPI apps
-- Identify transaction trends and patterns
-- Present insights through interactive visualizations
-
-Key Features
-
-- UPI app-wise transaction comparison
-- Transaction analysis using charts
-- Dashboard-based data visualization
-
-Skills Demonstrated
-
 - Data Analysis
-- Microsoft Excel
-- Data Visualization
-- Dashboard Creation
+- Charts and Data Visualization
+- Interactive Dashboard Filters
+
+Project Objective
+
+To transform UPI transaction data into meaningful visual insights that help understand payment trends, transaction performance, and customer behavior.
+
+Dashboard Preview
+
+See the dashboard screenshot included in this repository.
 
 Author
+
 Aditya Lone
