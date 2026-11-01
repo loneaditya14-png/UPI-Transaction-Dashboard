@@ -1,49 +1,74 @@
-UPI Transaction Dashboard | Microsoft Excel
+UPI Transaction Dashboard
+
+An Excel-Based Data Analysis Project
 
 Project Overview
 
-This project presents an interactive UPI Transaction Dashboard built using Microsoft Excel to analyze transaction patterns, payment performance, and customer behavior.
+This project focuses on analyzing UPI transaction data using Microsoft Excel. The dashboard presents key performance indicators (KPIs) and visual insights into transaction trends, payment methods, transaction status, and customer demographics.
 
-Key Performance Indicators (KPIs)
+Objectives
+
+- Analyze UPI transaction performance and patterns.
+- Compare transaction activity across UPI applications.
+- Examine transaction status and success rates.
+- Analyze transaction amounts by state, bank, and transaction type.
+- Identify hourly and age-group transaction patterns.
+- Present data through a structured visual dashboard.
+
+Key Performance Indicators
 
 - Total Transactions
-- Total Transaction Amount
-- Total Cashback
+- Total Transaction Amount (INR)
+- Total Cashback (INR)
 - Transaction Success Rate
 - Suspected Fraud Transactions
 
-Dashboard Analysis
+Dashboard Features
 
-- UPI App-wise Transaction Analysis
-- Transaction Status Analysis
-- Daily Transaction Amount Trends
-- State-wise and Bank-wise Analysis
-- Transaction Type Analysis
-- Hour-wise Transaction Patterns
-- Age Group Analysis
+- Daily transaction amount trends
+- UPI application-wise comparison
+- Transaction status distribution
+- State-wise transaction analysis
+- Bank-wise transaction amount comparison
+- Transaction type analysis
+- Hour-wise transaction patterns
+- Age-group analysis
 
 Interactive Filters
 
-- UPI App
+- UPI Application
 - City
 - Gender
 - Merchant Name
 
-Tools Used
+Tools and Skills
 
 - Microsoft Excel
 - Data Analysis
-- Charts and Data Visualization
-- Interactive Dashboard Filters
-
-Project Objective
-
-To transform UPI transaction data into meaningful visual insights that help understand payment trends, transaction performance, and customer behavior.
+- Data Visualization
+- Dashboard Development
+- Business Reporting
 
 Dashboard Preview
 
-See the dashboard screenshot included in this repository.
+"UPI Transaction Dashboard" (UPI-Dashboard-Preview.png.png)
+
+Project Files
+
+File| Description
+"Transaction_Analysis_git.xlsx"| Excel workbook containing the project
+"UPI-Dashboard-Preview.png.png"| Dashboard preview image
+
+Key Learning Outcomes
+
+- Practiced analyzing transaction data using Excel.
+- Developed data visualization and dashboard presentation skills.
+- Explored transaction patterns across multiple categories.
+- Practiced presenting analytical information in a structured format.
 
 Author
 
 Aditya Lone
+Data Analyst
+Skills: Microsoft Excel | SQL | Power BI
+"GitHub Profile" (https://github.com/loneaditya14-png)
