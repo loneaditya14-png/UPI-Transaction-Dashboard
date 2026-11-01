@@ -56,8 +56,7 @@ Dashboard Preview
 Project Files
 
 File| Description
-"Transaction_Analysis_git.xlsx"| Excel workbook containing the project
-"UPI-Dashboard-Preview.png.png"| Dashboard preview image
+![UPI Transaction Dashboard](UPI-Dashboard-Preview.png.png)
 
 Key Learning Outcomes
 
